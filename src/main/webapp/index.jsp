@@ -8,7 +8,7 @@
   <h5> Update 9/30/21 updated while in-class session .... </h5>
   <h5> Update 9/30/21 NEW updated while in-class session .... </h5>
   <h5> Update 9/30/21 ANOTHER update while in-class session .... </h5>
-  
+  <h5> Update 9/30/21 "You're the best" while in-class session .... </h5>
   
   
   
